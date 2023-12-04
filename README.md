@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently working with protein engineering in computational biology<br>looking to collaborate with projects related to structural biology<br>currently trying to learn more about machine learning and it aplications in protein engineering field<br>
+Email to contact: joaosartori2@gmail.com
 
 
 # 💻 Tech Stack:
